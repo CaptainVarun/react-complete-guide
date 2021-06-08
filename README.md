@@ -1,6 +1,6 @@
 # react-complete-guide
 
-This github consists of projects and experiences done within the course: **React - The Complete Guide (incl Hooks, React Router, Redux)**.
+This repository consists of projects and experiences done within the course: **React - The Complete Guide (incl Hooks, React Router, Redux)**.
 
  **Course Timeline:**
  
